@@ -1,0 +1,15 @@
+
+h1 {
+    font-size: 20px;font-family: 'heiti', sans-serif;vertical-align: middle;
+     text-align: center;color: blue
+}
+
+h2 {color: blue;font-size: 16px;font-family: 'heiti', sans-serif;vertical-align: middle;
+    text-align:left;
+}
+
+table {
+    border: 3px solid red;vertical-align: middle;}
+
+td, th { border: 1px solid red;}
+.wwww{color:blue;}
